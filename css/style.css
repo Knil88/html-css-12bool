@@ -1,0 +1,28 @@
+/* Regole generali */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.row div{
+    background-color: #006cfa;
+    color: white;
+    text-align: center;
+    border: solid white 1px;
+    padding: 25px;
+    font-size: 14px;
+    
+}.container{
+    margin-bottom: 10px;
+}
+
+ 
+
+
+.col-6-xs div {
+    background-color: #00e265;
+    padding: 5px;
+    border: 1px solid #006cfa;
+  }
+ 
